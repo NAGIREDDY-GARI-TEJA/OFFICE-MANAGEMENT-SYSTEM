@@ -1,0 +1,1 @@
+This C++ code implements an Office Management System allowing addition, modification, viewing, and removal of employee details, organized by departments, utilizing inheritance, polymorphism, and operator overloading for efficient management within an office environment.
