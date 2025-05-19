@@ -31,8 +31,10 @@ A simple Office Management System developed in C++ that helps manage employee da
 
 3. Run the program:
 
-  ```bash
+     ```bash
      ./OfficeSystem
+
+## Project Plan
 
 ```
 office-management-system/
