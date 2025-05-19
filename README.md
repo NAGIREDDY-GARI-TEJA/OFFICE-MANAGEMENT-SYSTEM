@@ -34,8 +34,6 @@ A simple Office Management System developed in C++ that helps manage employee da
   ```bash
      ./OfficeSystem
 
-
-
 ```
 office-management-system/
 │
